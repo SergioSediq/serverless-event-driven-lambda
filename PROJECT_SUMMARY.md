@@ -1,4 +1,4 @@
-# Serverless Event-Driven Architecture - Project Summary
+# Serverless Event-Driven Architecture
 
 ## The Serverless Advantage
 
